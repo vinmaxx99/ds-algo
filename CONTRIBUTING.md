@@ -7,3 +7,5 @@ Name the file as the name of the algorithm .
 You could also submit your solutions for some problem on codechef or codeforces but make sure to add link of the problem in comments in the code.
 
 Happy Hacking!!
+
+[@Dikshapurswani](https://github.com/Dikshapurswani)

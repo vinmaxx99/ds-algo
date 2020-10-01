@@ -7,4 +7,6 @@ You could also submit your solutions for some problem on CodeChef or code forces
 
 Read the contributing.md and you can add yourself to the contributing.md in the list of contributers when you make a PR
 
+You may also make pull requests to this repository as it might get reviewed faster. https://github.com/Dark-Theme-Only/ds-algo
+
 Happy Hacking!!
